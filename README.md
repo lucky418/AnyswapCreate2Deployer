@@ -1,7 +1,10 @@
 # AnyswapCreate2Deployer
 
 I created this repository to deploy AnyswapCreate2Deployer on BSC testnet.
-I referred to [0x54F5A04417E29FF5D7141a6d33cb286F50d5d50e](https://bscscan.com/address/0x54F5A04417E29FF5D7141a6d33cb286F50d5d50e#code)
+
+The source code was copyed from [0x54F5A04417E29FF5D7141a6d33cb286F50d5d50e](https://bscscan.com/address/0x54F5A04417E29FF5D7141a6d33cb286F50d5d50e#code).
+
+The contract has been deployed on [0xF9C249974c1Acf96a59e5757Cc9ba7035cE489B1](https://testnet.bscscan.com/address/0xF9C249974c1Acf96a59e5757Cc9ba7035cE489B1#writeContract).
 
 ## Installation
 Pull the repository from GitHub and install its dependencies. You will need [npm](https://docs.npmjs.com/cli/install) installed.
